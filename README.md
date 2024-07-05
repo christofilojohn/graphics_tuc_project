@@ -19,10 +19,11 @@ This is a Graphics TUC course project by Ioannis Christofilogiannis. The project
 *The chessboard battle level*
 
 ## Game Art
-![Main Character](art/Portrait_player.png)
+
+<img src="art/Portrait_player.png" width="50%" alt="Main Character">
 *The hero*
 
-![NPC](art/Portrait_NPC_peasant.png)
+<img src="art/Portrait_NPC_peasant.png" width="50%" alt="NPC">
 *The helpful (?) NPC*
 
 ![Heart Sprite](art/heart.png)
