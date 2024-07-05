@@ -10,16 +10,6 @@ This is a Graphics TUC course project by Ioannis Christofilogiannis. The project
 
 [![Download Game](https://img.shields.io/badge/Download-Game-red)](https://drive.google.com/drive/folders/1tIe2uuVZjs9NbRcnaNv2o3eqlDXMmiFi?usp=sharing)
 
-## Screenshots
-![Title Screen](images/menu_screen.png)
-*The title screen*
-
-![Level 2 Screenshot](images/level2_screen.png)
-*The snow level*
-
-![Level 3 Screenshot](images/level3_screen.png)
-*The chessboard battle level*
-
 ## Game Art
 
 <img src="art/Portrait_player.png" width="50%" alt="Main Character">
@@ -178,6 +168,33 @@ This is a Graphics TUC course project by Ioannis Christofilogiannis. The project
 - Have resolution options, scaling (Now limited to 1080p)
 
 ## Contact
+
+### Ioannis Christofilogiannis
+<table>
+  <tr>
+    <td><strong>Email:</strong></td>
+    <td><a href="mailto:jchr2001@gmail.com">jchr2001@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>LinkedIn:</strong></td>
+    <td><a href="https://www.linkedin.com/in/ioannis-christofilogiannis/">Ioannis Christofilogiannis</a></td>
+  </tr>
+  <tr>
+    <td><strong>Website:</strong></td>
+    <td><a href="https://christofilojohn.github.io/">christofilojohn.github.io</a></td>
+  </tr>
+</table>
+
+Feel free to reach out for any questions or collaborations!
+## Screenshots
+![Title Screen](images/menu_screen.png)
+*The title screen*
+
+![Level 2 Screenshot](images/level2_screen.png)
+*The snow level*
+
+![Level 3 Screenshot](images/level3_screen.png)
+*The chessboard battle level*
 
 
 
