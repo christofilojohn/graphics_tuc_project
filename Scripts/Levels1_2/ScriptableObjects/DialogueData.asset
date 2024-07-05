@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18f185aa05e2cc40a9933bd3ecdeb69, type: 3}
+  m_Name: DialogueData
+  m_EditorClassIdentifier: 
+  dialogueElements:
+  - text: WHERE IS THE SCROLL OF LIGHT?
+    leftPortraitIconIndex: 0
+    rightPortraitIconIndex: 0
+    isRightSpeaking: 1
+  - text: Not even a greeting? Kinda rude...
+    leftPortraitIconIndex: 0
+    rightPortraitIconIndex: 0
+    isRightSpeaking: 0
+  - text: Sorry, How are you kind sir?
+    leftPortraitIconIndex: 0
+    rightPortraitIconIndex: 0
+    isRightSpeaking: 1
+  - text: "That\u2019s more like it, to give you the scroll you must solve a puzzle..."
+    leftPortraitIconIndex: 0
+    rightPortraitIconIndex: 0
+    isRightSpeaking: 0
+  - text: Ok tell me what to do.
+    leftPortraitIconIndex: 0
+    rightPortraitIconIndex: 0
+    isRightSpeaking: 1
+  - text: 'These are the 3 *pillars* of my philosophy:'
+    leftPortraitIconIndex: 0
+    rightPortraitIconIndex: 0
+    isRightSpeaking: 0
+  - text: Huh?
+    leftPortraitIconIndex: 0
+    rightPortraitIconIndex: 0
+    isRightSpeaking: 1
+  - text: 'An apple in the *middle* of the day keeps the doctor away... '
+    leftPortraitIconIndex: 0
+    rightPortraitIconIndex: 0
+    isRightSpeaking: 0
+  - text: Drinking a bit of wine is always all *right*,
+    leftPortraitIconIndex: 0
+    rightPortraitIconIndex: 0
+    isRightSpeaking: 0
+  - text: Eat cheese until there is no more *left*
+    leftPortraitIconIndex: 0
+    rightPortraitIconIndex: 0
+    isRightSpeaking: 0
+  - text: You have a great appreciation for fine dining...
+    leftPortraitIconIndex: 0
+    rightPortraitIconIndex: 0
+    isRightSpeaking: 1
+  - text: Ok I solved it! Give me the scroll
+    leftPortraitIconIndex: 0
+    rightPortraitIconIndex: 0
+    isRightSpeaking: 1
+  - text: No, I need one more thing !
+    leftPortraitIconIndex: 0
+    rightPortraitIconIndex: 0
+    isRightSpeaking: 0
+  - text: ... What is it?
+    leftPortraitIconIndex: 0
+    rightPortraitIconIndex: 0
+    isRightSpeaking: 1
+  - text: It is but a simple thing.. You must kill the king !
+    leftPortraitIconIndex: 0
+    rightPortraitIconIndex: 0
+    isRightSpeaking: 0
+  - text: I am out of here...
+    leftPortraitIconIndex: 0
+    rightPortraitIconIndex: 0
+    isRightSpeaking: 1
+  - text: "It\u2019s dangerous to go alone, take this, my pawn !"
+    leftPortraitIconIndex: 0
+    rightPortraitIconIndex: 0
+    isRightSpeaking: 0
+  - text: Is it done? Perfect, did you burry the body?
+    leftPortraitIconIndex: 0
+    rightPortraitIconIndex: 0
+    isRightSpeaking: 0
+  - text: ...
+    leftPortraitIconIndex: 0
+    rightPortraitIconIndex: 0
+    isRightSpeaking: 1
+  - text: 'Go to the chest, by the tree and you can finally be free ! '
+    leftPortraitIconIndex: 0
+    rightPortraitIconIndex: 0
+    isRightSpeaking: 0
