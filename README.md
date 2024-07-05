@@ -1,4 +1,4 @@
-# Puzzle Adventure Game
+# 3d Puzzle Adventure Game
 
 ## Project Overview
 
@@ -7,6 +7,29 @@ This is a Graphics TUC course project by Ioannis Christofilogiannis. The project
 ## Download
 
 [![Download Game](https://img.shields.io/badge/Download-Game-red)](https://drive.google.com/drive/folders/1tIe2uuVZjs9NbRcnaNv2o3eqlDXMmiFi?usp=sharing)
+
+## Screenshots
+![Title Screen](images/title_screen.png)
+*The title screen*
+
+![Level 2 Screenshot](images/level1-screen.png)
+*The snow level*
+
+![Level 3 Screenshot](images/level3-screen.png)
+*The chessboard battle level*
+
+## Game Art
+![Main Character](art/Portrait_player.png)
+*The hero*
+
+![NPC](art/Portrait_NPC_peasant.png)
+*The helpful (?) NPC*
+
+![Heart Sprite](art/heart.png)
+*A heart/life booster sprite*
+
+![Meat Sprite](art/meat.png)
+*A meat booster sprite*
 
 ## Game Description
 
@@ -29,6 +52,13 @@ This is a Graphics TUC course project by Ioannis Christofilogiannis. The project
 - Character animations
 - Multiple game mechanics across levels
 - Boosters and hazards in Level 3
+
+## Game Flowcharts
+![Levels 1,2](images/levels1_2.png)
+*Levels 1,2*
+
+![Level 3](images/level3.png)
+*Level 3*
 
 ## Scripts Overview
 
@@ -136,15 +166,15 @@ This is a Graphics TUC course project by Ioannis Christofilogiannis. The project
 
 ## Installation and Setup
 
-
-## Screenshots
-
-
+- Download the complete folder from Google Drive and run the .exe file in a Windows machine
 
 ## Future Improvements
 
-
+- Improve level3 enemy attacks, animations, collisions
+- Add dialogues to level3
+- Have resolution options, scaling (Now limited to 1080p)
 
 ## Contact
+
 
 
