@@ -1,5 +1,7 @@
 # 3d Puzzle Adventure Game
 
+<img src="images/title_screen.png" width="100%" alt="Title Screen">
+
 ## Project Overview
 
 This is a Graphics TUC course project by Ioannis Christofilogiannis. The project is a puzzle adventure game developed in Unity, featuring multiple levels with different gameplay mechanics.
@@ -9,13 +11,13 @@ This is a Graphics TUC course project by Ioannis Christofilogiannis. The project
 [![Download Game](https://img.shields.io/badge/Download-Game-red)](https://drive.google.com/drive/folders/1tIe2uuVZjs9NbRcnaNv2o3eqlDXMmiFi?usp=sharing)
 
 ## Screenshots
-![Title Screen](images/title_screen.png)
+![Title Screen](images/menu_screen.png)
 *The title screen*
 
-![Level 2 Screenshot](images/level1-screen.png)
+![Level 2 Screenshot](images/level2_screen.png)
 *The snow level*
 
-![Level 3 Screenshot](images/level3-screen.png)
+![Level 3 Screenshot](images/level3_screen.png)
 *The chessboard battle level*
 
 ## Game Art
