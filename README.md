@@ -167,9 +167,22 @@ This is a Graphics TUC course project by Ioannis Christofilogiannis. The project
 - Add dialogues to level3
 - Have resolution options, scaling (Now limited to 1080p)
 
+
+## Screenshots
+
+![Title Screen](images/menu_screen.png)
+*The title screen*
+
+![Level 2 Screenshot](images/level2_screen.png)
+*The snow level*
+
+![Level 3 Screenshot](images/level3_screen.png)
+*The chessboard battle level*
+
 ## Contact
 
 ### Ioannis Christofilogiannis
+
 <table>
   <tr>
     <td><strong>Email:</strong></td>
@@ -184,17 +197,9 @@ This is a Graphics TUC course project by Ioannis Christofilogiannis. The project
     <td><a href="https://christofilojohn.github.io/">christofilojohn.github.io</a></td>
   </tr>
 </table>
-
 Feel free to reach out for any questions or collaborations!
-## Screenshots
-![Title Screen](images/menu_screen.png)
-*The title screen*
 
-![Level 2 Screenshot](images/level2_screen.png)
-*The snow level*
 
-![Level 3 Screenshot](images/level3_screen.png)
-*The chessboard battle level*
 
 
 
