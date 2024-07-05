@@ -197,6 +197,7 @@ This is a Graphics TUC course project by Ioannis Christofilogiannis. The project
     <td><a href="https://christofilojohn.github.io/">christofilojohn.github.io</a></td>
   </tr>
 </table>
+
 Feel free to reach out for any questions or collaborations!
 
 
